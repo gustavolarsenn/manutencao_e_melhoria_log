@@ -1,0 +1,21 @@
+INFO:__main__:Calculadora iniciada
+WARNING:__main__:Operacao selecionada invalida h
+INFO:__main__:Calculadora iniciada
+INFO:__main__:Operacao selecionada *
+INFO:__main__:Primeiro numero coletado 3.0
+INFO:__main__:Segundo numero coletado 10.0
+INFO:__main__:Resultado 3.0 * 10.0: 30.0
+INFO:__main__:Calculadora iniciada
+INFO:__main__:Operacao selecionada /
+INFO:__main__:Primeiro numero coletado 5.0
+INFO:__main__:Segundo numero coletado 0.0
+ERROR:__main__:Nao e possivel dividir 5.0 por zero!!!!!
+INFO:__main__:Calculadora iniciada
+INFO:__main__:Operacao selecionada *
+INFO:__main__:Primeiro numero coletado 5.0
+INFO:__main__:Segundo numero coletado 9.0
+ERROR:__main__:Erro ao executar calculadora: name 'jdjadsjdsa' is not defined
+Traceback (most recent call last):
+  File "C:\Users\gustavo.larsen\PycharmProjects\log.py\log.py", line 27, in main
+    jdjadsjdsa
+NameError: name 'jdjadsjdsa' is not defined
